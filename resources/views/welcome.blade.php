@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Welcome to PHP</title>
+        <title>Welcome to TIU</title>
 
 
         <title>Not Welcome</title>
